@@ -9,7 +9,7 @@
         <section class="main-like sec-header">
           <h5 class="card-header-title"><a href="#">スキ！が多い作品</a></h5>
           <div class="column">
-            <nuxt-link to="/detail"><img src="haruki_murakami_kaze.jpg" alt="風の歌を聴け"></nuxt-link>
+            <nuxt-link to="/detail"><img src="~/assets/img_file/haruki_murakami_kaze.jpg" alt="風の歌を聴け"></nuxt-link>
             <div class="column-body">
               <h6 class="column-title"><nuxt-link to="/detail">風の歌を聴け</nuxt-link></h6>
               
@@ -31,7 +31,7 @@
             </div>
           </div>
           <div class="column">
-            <nuxt-link to="/detail"><img src="asai_nanimono.jpeg" alt=""></nuxt-link>
+            <nuxt-link to="/detail"><img src="~/assets/img_file/asai_nanimono.jpeg" alt="何者"></nuxt-link>
             <div class="column-body">
               <h6 class="column-title"><nuxt-link to="/detail">何者</nuxt-link></h6>
               <div class="product_buttons container">
@@ -51,7 +51,7 @@
             </div>
           </div>
           <div class="column">
-            <nuxt-link to="/detail"><img src="jikkennshikou_koumoto.jpeg" alt=""></nuxt-link>
+            <nuxt-link to="/detail"><img src="~/assets/img_file/jikkennshikou_koumoto.jpeg" alt="実験思考"></nuxt-link>
             <div class="column-body">
               <h6 class="column-title"><nuxt-link to="/detail">実験思考</nuxt-link></h6>
               <div class="product_buttons container">
@@ -71,7 +71,7 @@
             </div>
           </div>
           <div class="column">
-            <nuxt-link to="/detail"><img src="kirawareruyuuki_kishimi.jpg" alt=""></nuxt-link>
+            <nuxt-link to="/detail"><img src="~/assets/img_file/kirawareruyuuki_kishimi.jpg" alt="嫌われる勇気"></nuxt-link>
             <div class="column-body">
               <h6 class="column-title"><nuxt-link to="/detail">嫌われる勇気</nuxt-link></h6>
               <div class="product_buttons container">
@@ -91,7 +91,7 @@
             </div>
           </div>
           <div class="column">
-            <nuxt-link to="/detail"><img src="ippunndehanase_itoh.png" alt=""></nuxt-link>
+            <nuxt-link to="/detail"><img src="~/assets/img_file/memoma_maedayuji.jpg" alt="メモの魔力"></nuxt-link>
             <div class="column-body">
               <h6 class="column-title"><nuxt-link to="/detail">メモの魔力</nuxt-link></h6>
               <div class="product_buttons container">
@@ -119,7 +119,7 @@
         <section class="main-like-post sec-header">
           <h5 class="card-header-title"><a href="#">おすすめ投稿が多い作品</a></h5>
           <div class="column">
-            <a href="#"><img src="img_file/ippunndehanase_itoh.png" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/ippunndehanase_itoh.png" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">1分で話せ</a></h6>
               <div class="product_buttons container">
@@ -139,7 +139,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/gakuryokunokeizai_nakamura.jpeg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">「学力」の経済学</a></h6>
               <div class="product_buttons container">
@@ -159,7 +159,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/nanatsunosyuukann_steaven.jpeg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">7つの習慣</a></h6>
               <div class="product_buttons container">
@@ -179,7 +179,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/tsumanotorisetu_kurokawa.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">妻のトリセツ</a></h6>
               <div class="product_buttons container">
@@ -199,7 +199,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/eitangonogengo_shimizu.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">英単語の語源図鑑</a></h6>
               <div class="product_buttons container">
@@ -227,7 +227,7 @@
         <section class="main-dramatization sec-header">
           <h5 class="card-header-title"><a href="#">映画・ドラマ化された作品</a></h5>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/kingdom.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">キングダム</a></h6>
                <div class="product_buttons container">
@@ -247,7 +247,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/kuuboibuki.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">空母いぶき</a></h6>
               <div class="product_buttons container">
@@ -267,7 +267,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/gisoufurin.jpg" alt="偽装不倫"></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">偽装不倫</a></h6>
               <div class="product_buttons container">
@@ -287,7 +287,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/radieitionhouse.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">ラジエーションハウス</a></h6>
               <div class="product_buttons container">
@@ -307,7 +307,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/kinounanitabeta.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">きのう何食べた？</a></h6>
               <div class="product_buttons container">
@@ -335,7 +335,7 @@
         <section class="main-winner sec-header">
           <h5 class="card-header-title"><a href="#">文学賞作品</a></h5>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/hibana.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">火花</a></h6>
               <div class="product_buttons container">
@@ -355,7 +355,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/yoruhamijikashi.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">夜は短し歩けよ乙女</a></h6>
               <div class="product_buttons container">
@@ -375,7 +375,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/baton.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">そして、バトンは渡された</a></h6>
               <div class="product_buttons container">
@@ -395,7 +395,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/rikuou.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">陸王</a></h6>
               <div class="product_buttons container">
@@ -415,7 +415,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/convini.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">コンビニ人間</a></h6>
               <div class="product_buttons container">
@@ -443,7 +443,7 @@
         <section class="main-our-recomend sec-header">
           <h5 class="card-header-title"><a href="#">運営会社おすすめ作品</a></h5>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/kimitatiha.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">君たちはどう生きるか</a></h6>
               <div class="product_buttons container">
@@ -463,7 +463,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/sonohinomaeni.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">その日の前に</a></h6>
               <div class="product_buttons container">
@@ -483,7 +483,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/kaiginokyoukasyo.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">世界で一番やさしい会議の教科書</a></h6>
               <div class="product_buttons container">
@@ -503,7 +503,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/yuubenocurry.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">昨夜のカレー、明日のパン</a></h6>
               <div class="product_buttons container">
@@ -523,7 +523,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/kabannosouzoku.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">かばん屋の相続</a></h6>
               <div class="product_buttons container">
@@ -551,7 +551,7 @@
         <section class="main-your-recomend sec-header">
           <h5 class="card-header-title"><a href="#">あなたへのおすすめ作品</a></h5>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/hannihongo.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">反・日本語論</a></h6>
               <div class="product_buttons container">
@@ -571,7 +571,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/kokoro_natsume.jpeg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">こころ</a></h6>
               <div class="product_buttons container">
@@ -591,7 +591,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/kinnkakuji.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">金閣寺</a></h6>
               <div class="product_buttons container">
@@ -611,7 +611,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/shiosai.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">潮騒</a></h6>
               <div class="product_buttons container">
@@ -631,7 +631,7 @@
             </div>
           </div>
           <div class="column">
-            <a href="#"><img src="haruki_murakami_kaze.jpg" alt=""></a>
+            <a href="#"><img src="~/assets/img_file/harunoyuki.jpg" alt=""></a>
             <div class="column-body">
               <h6 class="column-title"><a href="#">春の雪</a></h6>
               <div class="product_buttons container">
@@ -667,14 +667,14 @@
                   <p class="user-rank-first">1</p>
                   <div class="user-rank-contents"> 
                     <div class="user-rank-icon"></div>
-                    <div class="user-rank-name"><a href="#">田中しょうた</a></div>
+                    <div class="user-rank-name"><a href="#">aaaa</a></div>
                   </div>
               </li>
               <li>
                   <p class="user-rank-second">2</p>
                   <div class="user-rank-contents"> 
                     <div class="user-rank-icon"></div>
-                    <div class="user-rank-name"><a href="#">田中しょうた</a></div>
+                    <div class="user-rank-name"><a href="#">bbbb</a></div>
                   </div>
               
               </li>
@@ -682,7 +682,7 @@
                   <p class="user-rank-third">3</p>
                   <div class="user-rank-contents"> 
                     <div class="user-rank-icon"></div>
-                    <div class="user-rank-name"><a href="#">田中しょうた</a></div>
+                    <div class="user-rank-name"><a href="#">cccc</a></div>
                   </div>              
               </li>
             </ul>
@@ -697,7 +697,7 @@
                   <p class="user-rank-first">1</p>
                   <div class="user-rank-contents"> 
                     <div class="user-rank-icon"></div>
-                    <div class="user-rank-name"><a href="#">田中しょうた</a></div>
+                    <div class="user-rank-name"><a href="#">dddd</a></div>
                   </div>
               
               </li>
@@ -705,7 +705,7 @@
                   <p class="user-rank-second">2</p>
                   <div class="user-rank-contents"> 
                     <div class="user-rank-icon"></div>
-                    <div class="user-rank-name"><a href="#">田中しょうた</a></div>
+                    <div class="user-rank-name"><a href="#">eeee</a></div>
                   </div>
                
               </li>
@@ -713,7 +713,7 @@
                   <p class="user-rank-third">3</p>
                   <div class="user-rank-contents"> 
                     <div class="user-rank-icon"></div>
-                    <div class="user-rank-name"><a href="#">田中しょうた</a></div>
+                    <div class="user-rank-name"><a href="#">ffff</a></div>
                   </div>
                
               </li>
@@ -729,21 +729,21 @@
                   <p class="user-rank-first">1</p>
                   <div class="user-rank-contents">
                     <div class="user-rank-icon"></div>
-                    <div class="user-rank-name"><a href="#">田中しょうた</a></div>
+                    <div class="user-rank-name"><a href="#">gggg</a></div>
                   </div>             
               </li>
               <li>
                   <p class="user-rank-second">2</p>
                   <div class="user-rank-contents">                  
                     <div class="user-rank-icon"></div>
-                    <div class="user-rank-name"><a href="#">田中しょうた</a></div>
+                    <div class="user-rank-name"><a href="#">hhhh</a></div>
                   </div>               
               </li>
               <li>
                   <p class="user-rank-third">3</p>
                   <div class="user-rank-contents"> 
                     <div class="user-rank-icon"></div>
-                    <div class="user-rank-name"><a href="#">田中しょうた</a></div>
+                    <div class="user-rank-name"><a href="#">iiii</a></div>
                   </div>               
               </li>
             </ul>
@@ -758,8 +758,19 @@
 </template>
 
 <script>
-
+export default {
+  layout:'default',
+  head: {
+    title: 'TOP',
+    meta: [
+      {
+        hid: 'description', name: 'description', content: 'トップページです。'
+      }
+    ]
+  },
+}
 </script>
+
 
 <style>
 * {
@@ -807,7 +818,7 @@ body {
 .column img {
   width: 150px;
   height: 200px;
-  background-color: orange;
+  /* background-color: orange; */
 }
 
 .column-body {

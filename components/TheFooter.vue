@@ -53,3 +53,8 @@ footer {
     padding-top: 10px;
 }
 </style>
+<script>
+export default {
+    
+}
+</script>

@@ -15,31 +15,31 @@
   </div>  
 
  
-    <div class="card_content">
-      <p class="text_body">この本の好きなところを書いてください！</p>  
-    </div>
+  <div class="card_content">
+    <p class="text_body">この本の好きなところを書いてください！</p>  
+  </div>
 
-    <div class="post_field">
-      <textarea name="comment" id="" cols="30" rows="5" placeholder="あなたのお友達におすすめする気持ちで書いてください(200字まで)" class="textarea"></textarea>
+  <div class="post_field">
+    <textarea name="comment" id="" cols="30" rows="5" placeholder="あなたのお友達におすすめする気持ちで書いてください(200字まで)" class="textarea"></textarea>
+  </div>
+  <div class="option_container">
+    <span class="counter_current">0</span>
+    <span class="counter_mark">/</span>
+    <span class="counter_max">200文字</span>
+  </div>
+
+  <div class="post_hashtag_form">
+    <div class="post_hashtag_title">ハッシュタグをつけよう！</div>
+    <div class="post_hashtag">
+        <textarea name="hashtag" id="" cols="30" rows="3" placeholder="#推理小説 #冒険 #涙のラスト(100字まで)" class="textarea"></textarea>
     </div>
     <div class="option_container">
-      <span class="counter_current">0</span>
+      <span class="counter_current" id="count" maxlength="100">0</span>
       <span class="counter_mark">/</span>
-      <span class="counter_max">200文字</span>
+      <span class="counter_max">100文字</span>
     </div>
-
-    <div class="post_hashtag_form">
-      <div class="post_hashtag_title">ハッシュタグをつけよう！</div>
-      <div class="post_hashtag">
-          <textarea name="hashtag" id="" cols="30" rows="3" placeholder="#推理小説 #冒険 #涙のラスト(100字まで)" class="textarea"></textarea>
-      </div>
-      <div class="option_container">
-        <span class="counter_current" id="count" maxlength="100">0</span>
-        <span class="counter_mark">/</span>
-        <span class="counter_max">100文字</span>
-      </div>
-    </div>
-    <nuxt-link to="detail"><button type="submit" class="post_btn">投稿する</button></nuxt-link>
+  </div>
+  <nuxt-link to="detail"><button type="submit" class="post_btn">投稿する</button></nuxt-link>
 </div>
 
 </template>

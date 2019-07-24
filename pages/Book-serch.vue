@@ -522,11 +522,6 @@
           </div> 
         </section>
 <!--     ↑items_box_container終わり    --> 
-        
-        
-        
-        
-        
       </div>
 <!-- col-lg-10終わり -->
     </div>

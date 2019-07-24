@@ -10,7 +10,7 @@
             <div class="read_user_box">
               <a href="#"><img src="haruki_murakami_kaze.jpg" alt="" class="user_icon">
                 <div class="sidebar_user_name">
-                  田中しょうた
+                  aaaa
                 </div>
               </a>              
             </div>
@@ -19,7 +19,7 @@
             <div>
               <a href="#"><img src="haruki_murakami_kaze.jpg" alt="" class="user_icon">
                 <div class="sidebar_user_name">
-                  田中しょうた
+                  bbbb
                 </div>
               </a>              
             </div>
@@ -29,7 +29,7 @@
             <div>
               <a href="#"><img src="haruki_murakami_kaze.jpg" alt="" class="user_icon">
                 <div class="sidebar_user_name">
-                  田中しょうた
+                  cccc
                 </div>
               </a>              
             </div>
@@ -39,7 +39,7 @@
             <div>
               <a href="#"><img src="haruki_murakami_kaze.jpg" alt="" class="user_icon">
                 <div class="sidebar_user_name">
-                  田中しょうた
+                  dddd
                 </div>              
               </a>              
             </div>
@@ -49,7 +49,7 @@
             <div>
               <a href="#"><img src="haruki_murakami_kaze.jpg" alt="" class="user_icon">
                 <div class="sidebar_user_name">
-                  田中しょうた
+                  eeee
                 </div>              
               </a>              
             </div>
@@ -179,7 +179,7 @@
             <h5><a href="#">太宰治</a></h5>  
           </div>
           <div class="book_info_btn_group">
-            <h6><a href="#" class="book_info_btn">中古本で購入する(5)</a></h6>
+            <h6><a href="#" class="book_info_btn">中古本で購入する(<span>4</span>)</a></h6>
             <h6><a href="＃" class="book_info_btn">新品で購入する</a></h6>
             <h6><a href="#" class="book_info_btn">この本を出品する</a></h6>
           </div>
@@ -199,7 +199,7 @@
 <!--      ここから下コピー        -->
             <div class="user_recommend_item">
                 <a href="#"><img src="haruki_murakami_kaze.jpg" alt="" class="user_icon"></a>
-                <div class="user_recommend_user_name">田中しょうた</div>
+                <div class="user_recommend_user_name">aaaa</div>
               <div class="user_recommend_box">
                 <section class="user_recommend">
                   <p>「走れメロス」は友情や正義のメッセージ性が表れていて、力強く明快なので、教科書に採用されるのも肯ける。</p>
@@ -229,7 +229,7 @@
             
             <div class="user_recommend_item">
               <a href="#"><img src="haruki_murakami_kaze.jpg" alt="" class="user_icon"></a>
-              <div class="user_recommend_user_name">田中しょうた</div>
+              <div class="user_recommend_user_name">bbbb</div>
               <div class="user_recommend_box">
                 <section class="user_recommend">
                   <p>「走れメロス」は友情や正義のメッセージ性が表れていて、力強く明快なので、教科書に採用されるのも肯ける。</p>
@@ -258,7 +258,7 @@
             
             <div class="user_recommend_item">
               <a href="#"><img src="haruki_murakami_kaze.jpg" alt="" class="user_icon"></a>
-              <div class="user_recommend_user_name">田中しょうた</div>
+              <div class="user_recommend_user_name">cccc</div>
               <div class="user_recommend_box">
                 <section class="user_recommend">
                   <p>「走れメロス」は友情や正義のメッセージ性が表れていて、力強く明快なので、教科書に採用されるのも肯ける。</p>
@@ -288,7 +288,7 @@
             <div class="user_recommend_item">
               <div class="user_recommend_header">
                 <a href="#"><img src="haruki_murakami_kaze.jpg" alt="" class="user_icon"></a>
-                <div class="user_recommend_user_name">田中しょうた</div>                
+                <div class="user_recommend_user_name">dddd</div>                
               </div>
               
               <div class="user_recommend_box">
@@ -319,7 +319,7 @@
             
             <div class="user_recommend_item">
               <a href="#"><img src="haruki_murakami_kaze.jpg" alt="" class="user_icon"></a>
-              <div class="user_recommend_user_name">田中しょうた</div>
+              <div class="user_recommend_user_name">eeee</div>
               <div class="user_recommend_box">
                 <section class="user_recommend">
                   <p>「走れメロス」は友情や正義のメッセージ性が表れていて、力強く明快なので、教科書に採用されるのも肯ける。</p>
@@ -348,7 +348,7 @@
             
             <div class="user_recommend_item">
               <a href="#"><img src="haruki_murakami_kaze.jpg" alt="" class="user_icon"></a>
-              <div class="user_recommend_user_name">田中しょうた</div>
+              <div class="user_recommend_user_name">ffff</div>
               <div class="user_recommend_box">
                 <section class="user_recommend">
                   <p>「走れメロス」は友情や正義のメッセージ性が表れていて、力強く明快なので、教科書に採用されるのも肯ける。</p>

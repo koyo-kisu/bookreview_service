@@ -3,7 +3,7 @@
   <div class="pc_header_inner">
     <div class="pc_header_top">
       <h1>
-        <nuxt-link to="/"><img src="#" alt="">サイトロゴ</nuxt-link>
+        <nuxt-link to="/"><img src="#" alt="">サイト名</nuxt-link>
       </h1>
       <form action="#" class="pc_header_form">
         <input type="serch" name="keyword" placeholder="タイトル・著者名・#タグ" class="input_default">
